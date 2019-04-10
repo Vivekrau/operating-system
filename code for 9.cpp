@@ -2,7 +2,6 @@
 #include <string.h>
 #include <stdlib.h>
 
-
 typedef struct Process
 {
    int pid;
