@@ -2,12 +2,12 @@
 #include <string.h>
 #include <stdlib.h>
 
+
 typedef struct Process
 {
    int pid;
    int bt;
 } Process;
-
 
 void read_data(char **data)
 {
